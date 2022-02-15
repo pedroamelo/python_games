@@ -1,9 +1,0 @@
-apple
-banana
-blueberry
-coconut
-grape
-pineapple
-watermelon
-strawberry
-orange
